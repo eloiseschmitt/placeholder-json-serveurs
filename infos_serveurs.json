@@ -1,5 +1,4 @@
-{   
-    "serveurs" : [
+[
         {
             "id_serveur": 1,
             "nom_serveur": "ATXVL51WEB1",
@@ -46,4 +45,3 @@
             ]
         }
     ]
-}
