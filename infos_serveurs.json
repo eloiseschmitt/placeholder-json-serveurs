@@ -1,0 +1,49 @@
+{   
+    "serveurs" : [
+        {
+            "id_serveur": 1,
+            "nom_serveur": "ATXVL51WEB1",
+            "ip_serveur": "10.100.51.21",
+            "ulrs_associees": [
+                {
+                    "id_url": 1,
+                    "nom_url": "000-default"
+                },
+                {
+                    "id_url": 2,
+                    "nom_url": "anpr"
+                },
+                {
+                    "id_url": 3,
+                    "nom_url": "atixnetblog.fr"
+                }
+            ]
+        },
+        {
+            "id_serveur": 2,
+            "nom_serveur": "ATXVL51WEB2",
+            "ip_serveur": "10.100.51.29",
+            "ulrs_associees": [
+                {
+                    "id_url": 1,
+                    "nom_url": "000-default"
+                }
+            ]
+        },
+        {
+            "id_serveur": 3,
+            "nom_serveur": "ATXVL51WEB3",
+            "ip_serveur": "10.100.51.35",
+            "ulrs_associees": [
+                {
+                    "id_url": 1,
+                    "nom_url": "000-default"
+                },
+                {
+                    "id_url": 2,
+                    "nom_url": "afaser"
+                }
+            ]
+        }
+    ]
+}
